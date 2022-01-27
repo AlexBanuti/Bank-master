@@ -42,7 +42,6 @@ public class TestBanking {
 			System.out.println("Cliente " + (i+1) + " es " + b1.getCustomer(i).getFirstName() + b1.getCustomer(i).getLastName());
 			
 		}
-		//publicar en github
 		
 	}
 
